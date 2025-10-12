@@ -8,3 +8,13 @@ if (price < 100) {
 } else {
     console.log("100よ")
 }
+
+// boolのif
+
+const isTest = true
+
+if (isTest) {
+    console.log("test pass")
+} else {
+    console.log("test failed")
+}
